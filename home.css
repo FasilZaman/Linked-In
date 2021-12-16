@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.textbox1{
+    margin-left: .90vh;
+}
+.list1{
+    margin-left: 11vw;
+}
+.images1{
+    margin-top: 0.75vw;
+    width: 35px;
+     height: 50%;
+     margin-left: 0.5vw;
+     cursor: pointer;
+}
+.para1{
+    font-size: 70%;
+    margin-left: 0.5vw;
+    cursor: pointer;
+}
+.images2{
+    margin-top: 0.50vw;
+    width: 35px;
+     margin-left: 2vw;
+     cursor: pointer;
+}
+.para2{
+    font-size: 70%;
+    margin-left: 1.5vw;
+    cursor: pointer;
+}
+.images3{
+    margin-top: 0.55vw;
+    width: 35px;
+     height: 50%;
+     margin-left: 2vw;
+     cursor: pointer;
+}
+.para3{
+    font-size: 70%;
+    margin-left: 2.2vw;
+    cursor: pointer;
+}
+.images4{
+    margin-top: 0.55vw;
+    width: 35px;
+     height: 50%;
+     margin-left: 2vw;
+     cursor: pointer;
+}
+.para4{
+    font-size: 70%;
+    margin-left: 1.5vw;
+    cursor: pointer;
+}
+.images5{
+    margin-top: 0.35vw;
+    width: 35px;
+     height: 40%;
+     margin-left: 2vw;
+     cursor: pointer;
+}
+.para5{
+    font-size: 70%;
+    margin-left: 1.5vw;
+    cursor: pointer;
+}
+.images6{
+    margin-top: 0.35vw;
+    width: 35px;
+     height: 40%;
+     margin-left: 2vw;
+     cursor: pointer;
+}
+.para6{
+    font-size: 70%;
+    margin-left: 2.5vw;
+    cursor: pointer;
+}
+.images7{
+    margin-top: 0.55vw;
+    width: 35px;
+     height: 40%;
+     margin-left: 1vw;
+     cursor: pointer;
+}
+.para7{
+    font-size: 70%;
+    margin-left: 1vw;
+    cursor: pointer;
+}
+.premium{
+    margin-left: 3vw;
+    color: darkorange;
+    font-weight: bold;
+    cursor: pointer;
+}
+.main{
+    background-color: #F3F2EF;
+    width: 100%;
+    height: 3000px;
+}
+@media (max-width:1040px){
+    .leftside{
+          display: none;
+        }
+      }
+      @media (max-width:1040px){
+        .right2{
+              display: none;
+            }
+          }      
+
+ .discover1 :hover{
+     background-color: rgba(0, 0, 0, 0.313);
+     cursor: pointer;
+     border-radius: 10px;
+ }    
+ .lista1 :hover{
+    background-color: rgba(0, 0, 0, 0.333);
+    cursor: pointer;
+ }
+ .bottompost:hover{
+     background-color: rgba(0, 0, 0, 0.19);
+ }
+ @media (max-width:1040px){
+    .hider1{
+          display: none;
+        }
+      }
+ .posticons :hover{
+     background-color: rgba(0, 0, 0, 0.109);
+ }
