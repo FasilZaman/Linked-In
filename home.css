@@ -134,3 +134,48 @@
  .posticons :hover{
      background-color: rgba(0, 0, 0, 0.109);
  }
+ @media(max-width:360px){
+     .posticons{
+         font-size: 3.5vw;
+     }
+ }
+ @media(max-width:360px){
+    .bottompost{
+        font-size: 3.5vw;
+    }
+}
+@media(max-width:360px){
+    .bottomicon{
+        height: 5vw;
+        width: 5vw;
+    }
+}
+@media(max-width:360px){
+    .images1{
+        height: 7vw;
+        width: 7vw;
+        margin-top: 10px;
+    }
+}
+@media(max-width:360px){
+    .images2{
+        height: 7vw;
+        width: 7vw;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+}
+@media(max-width:360px){
+    .images3{
+        height: 7vw;
+        width: 7vw;
+        margin-top: 10px;
+        margin-left: 4px;
+    }
+}
+@media(max-width:360px){
+    .navbar-toggler{
+        
+        margin-left: 15px;
+    }
+}
